@@ -1,0 +1,10 @@
+from: aditya@medlife.com
+to: ajay@yahoo.com
+cc: mathesh@gmail.com,rr.d@gmail.com
+sub: get 30% offer on new purchases in medlife
+
+Hi Everyone!
+We're almost at 1.5 million students! To celebrate, I've recently received a lot of messages from students asking when the next sale of my courses will be, so I've decided to release new coupons for my courses, offering them at $9.99 ( the lowest discount possible!) Use the links below to enroll today, keep in mind, these coupons expire after just 5 days!
+
+Thanks for all your support!
+Jose
